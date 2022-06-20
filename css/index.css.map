@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAA;EACF,SAAS,EAAE,GAAG;CACf",
+    "sources": [
+        "../my-app/src/assets/scss/index.scss"
+    ],
+    "names": [],
+    "file": "index.css"
+}
